@@ -469,7 +469,7 @@ void Requestforlooan()
      fclose(fp);
  }
 
- void PrintErrorMessage();
+ //void PrintErrorMessage();
 
 int main()
 {
